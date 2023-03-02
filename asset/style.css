@@ -78,7 +78,7 @@ ul li:hover a{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 60px;
+    padding: 40px;
 }
 
 .textdata h2{
@@ -194,7 +194,7 @@ ul li:hover a{
     background: url(../image/backgd.webp) no-repeat;
     color: #2c2a2a;
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .skill h3{
@@ -271,6 +271,19 @@ ul li:hover a{
     100%{
       width: 70%;
     }
+}
+
+.soft{
+    margin-left: 40px;
+}
+
+.soft li{
+    list-style:disc;
+    padding: 5px;
+} 
+
+.para{
+    margin: 60px 0 60px 40px;
 }
 
 .switch{
